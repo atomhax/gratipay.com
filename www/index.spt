@@ -39,8 +39,8 @@ page_id = "homepage"
         <legend>{{ _('Step 2 of 3') }}</legend>
         <h2>{{ _('How much?') }}</h2>
 
-        <p class="instructions">We recommend between $1,000 and $3,000 per
-        technical employee per year.</p>
+        <p class="instructions">We recommend $2,000 per technical employee per
+        year.</p>
 
         $ <input type="text" name="amount" required>
         <div id="braintree-container"></div>
