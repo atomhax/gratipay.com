@@ -1,10 +1,9 @@
-_Last Updated: December 12, 2016_
+_Last Updated: September NN, 2017_
 
 These Terms of Service ("Terms") are an agreement between you, a user
 ("Participant") of the Gratipay service (the "Service"), and Gratipay, LLC
 ("Gratipay"). They govern your use of the Service and your relationship with
-Gratipay. When you register as a Gratipay Participant, you agree to be bound by
-these Terms.
+Gratipay. When you use Gratipay, you agree to be bound by these Terms.
 
 If you have any questions about these Terms, please contact us:
 
@@ -16,13 +15,12 @@ If you have any questions about these Terms, please contact us:
 
 1. Registration, Security, and Privacy
 
-    1. When you register for the Service, you agree to provide Gratipay with
-       complete and accurate registration information. You are responsible for
-keeping your account information, including your contact and payment
-information, up to date. Gratipay takes our Participants' privacy seriously. We
-will only use or share your information and Content as described in our
-[Privacy Policy](/about/policies/privacy), which is incorporated into these
-Terms.
+    1. When you use the Service, you agree to provide Gratipay with complete
+       and accurate registration information. You are responsible for keeping
+your account information, including your contact and payment information, up to
+date. Gratipay takes our Participants' privacy seriously. We will only use or
+share your information and Content as described in our [Privacy
+Policy](/about/policies/privacy), which is incorporated into these Terms.
 
     1. You are responsible for maintaining the security of your account
        information, including your authentication credentials. You agree to
